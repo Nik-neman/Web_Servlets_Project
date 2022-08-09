@@ -11,6 +11,6 @@
     <title>Add new user</title>
 </head>
 <body>
-
+ДОБАВЛЯЕМ ПОЛЬЗОВАТЕЛЯ
 </body>
 </html>
